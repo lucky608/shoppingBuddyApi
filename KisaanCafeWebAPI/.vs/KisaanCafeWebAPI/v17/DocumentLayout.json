@@ -1,0 +1,513 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\shoping\\KisaanCafeApi\\KisaanCafeWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D8501E-B932-40A2-884F-D55FDAE8C2A0}|KisaanCafeWebAPI.csproj|d:\\shoping\\kisaancafeapi\\kisaancafewebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D8501E-B932-40A2-884F-D55FDAE8C2A0}|KisaanCafeWebAPI.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD0375C-45FE-4BBF-99A7-0FAFFC3A58D4}|..\\KisaanCafe.Repository\\KisaanCafe.Repository.csproj|d:\\shoping\\kisaancafeapi\\kisaancafe.repository\\product\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51025AE2-4398-4807-BDAB-3ABE170CD5A1}|..\\KisaanCafe.Models\\KisaanCafe.Models.csproj|d:\\shoping\\kisaancafeapi\\kisaancafe.models\\invoicedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51025AE2-4398-4807-BDAB-3ABE170CD5A1}|..\\KisaanCafe.Models\\KisaanCafe.Models.csproj|d:\\shoping\\kisaancafeapi\\kisaancafe.models\\productcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51025AE2-4398-4807-BDAB-3ABE170CD5A1}|..\\KisaanCafe.Models\\KisaanCafe.Models.csproj|d:\\shoping\\kisaancafeapi\\kisaancafe.models\\productdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD0375C-45FE-4BBF-99A7-0FAFFC3A58D4}|..\\KisaanCafe.Repository\\KisaanCafe.Repository.csproj|d:\\shoping\\kisaancafeapi\\kisaancafe.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B9C05C-4D7B-4AF2-83CC-68D5294694C8}|..\\KisaanCafe.Services\\KisaanCafe.Services.csproj|d:\\shoping\\kisaancafeapi\\kisaancafe.services\\product\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD0375C-45FE-4BBF-99A7-0FAFFC3A58D4}|..\\KisaanCafe.Repository\\KisaanCafe.Repository.csproj|d:\\shoping\\kisaancafeapi\\kisaancafe.repository\\product\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B9C05C-4D7B-4AF2-83CC-68D5294694C8}|..\\KisaanCafe.Services\\KisaanCafe.Services.csproj|d:\\shoping\\kisaancafeapi\\kisaancafe.services\\product\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51025AE2-4398-4807-BDAB-3ABE170CD5A1}|..\\KisaanCafe.Models\\KisaanCafe.Models.csproj|d:\\shoping\\kisaancafeapi\\kisaancafe.models\\invoiceproductdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51025AE2-4398-4807-BDAB-3ABE170CD5A1}|..\\KisaanCafe.Models\\KisaanCafe.Models.csproj|d:\\shoping\\kisaancafeapi\\kisaancafe.models\\postuseraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51025AE2-4398-4807-BDAB-3ABE170CD5A1}|..\\KisaanCafe.Models\\KisaanCafe.Models.csproj|d:\\shoping\\kisaancafeapi\\kisaancafe.models\\usercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD0375C-45FE-4BBF-99A7-0FAFFC3A58D4}|..\\KisaanCafe.Repository\\KisaanCafe.Repository.csproj|d:\\shoping\\kisaancafeapi\\kisaancafe.repository\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D8501E-B932-40A2-884F-D55FDAE8C2A0}|KisaanCafeWebAPI.csproj|d:\\shoping\\kisaancafeapi\\kisaancafewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D8501E-B932-40A2-884F-D55FDAE8C2A0}|KisaanCafeWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D8501E-B932-40A2-884F-D55FDAE8C2A0}|KisaanCafeWebAPI.csproj|d:\\shoping\\kisaancafeapi\\kisaancafewebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0D8501E-B932-40A2-884F-D55FDAE8C2A0}|KisaanCafeWebAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD0375C-45FE-4BBF-99A7-0FAFFC3A58D4}|..\\KisaanCafe.Repository\\KisaanCafe.Repository.csproj|d:\\shoping\\kisaancafeapi\\kisaancafe.repository\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51025AE2-4398-4807-BDAB-3ABE170CD5A1}|..\\KisaanCafe.Models\\KisaanCafe.Models.csproj|d:\\shoping\\kisaancafeapi\\kisaancafe.models\\postactionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51025AE2-4398-4807-BDAB-3ABE170CD5A1}|..\\KisaanCafe.Models\\KisaanCafe.Models.csproj|d:\\shoping\\kisaancafeapi\\kisaancafe.models\\postinvoicedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D8501E-B932-40A2-884F-D55FDAE8C2A0}|KisaanCafeWebAPI.csproj|d:\\shoping\\kisaancafeapi\\kisaancafewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0D8501E-B932-40A2-884F-D55FDAE8C2A0}|KisaanCafeWebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Repository\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D8501E-B932-40A2-884F-D55FDAE8C2A0}|KisaanCafeWebAPI.csproj|d:\\shoping\\kisaancafeapi\\kisaancafewebapi\\kisaancafewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0D8501E-B932-40A2-884F-D55FDAE8C2A0}|KisaanCafeWebAPI.csproj|solutionrelative:kisaancafewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\.vsdbgsrc\\c2199e9609606abea6df38a652924a54212d3c9140dc508ae8fa2ee46455ac87\\FileConfigurationProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\InvoiceDetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Services\\Product\\ProductServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\InvoiceProductDetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\PutActionResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\PutActionResultCode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Repository\\Product\\ProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Repository\\Product\\IProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Services\\Product\\IProductServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\DeleteActionCode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\shoping\\KisaanCafeApi\\KisaanCafeWebAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\shoping\\KisaanCafeApi\\KisaanCafeWebAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T19:30:38.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductServices.cs",
+              "DocumentMoniker": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Services\\Product\\IProductServices.cs",
+              "RelativeDocumentMoniker": "..\\KisaanCafe.Services\\Product\\IProductServices.cs",
+              "ToolTip": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Services\\Product\\IProductServices.cs",
+              "RelativeToolTip": "..\\KisaanCafe.Services\\Product\\IProductServices.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:59:31.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Services\\Product\\ProductServices.cs",
+              "RelativeDocumentMoniker": "..\\KisaanCafe.Services\\Product\\ProductServices.cs",
+              "ToolTip": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Services\\Product\\ProductServices.cs",
+              "RelativeToolTip": "..\\KisaanCafe.Services\\Product\\ProductServices.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAkwIQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:59:05.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Repository\\Product\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\KisaanCafe.Repository\\Product\\ProductRepository.cs",
+              "ToolTip": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Repository\\Product\\ProductRepository.cs",
+              "RelativeToolTip": "..\\KisaanCafe.Repository\\Product\\ProductRepository.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAIwHIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:01:40.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Repository\\Product\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\KisaanCafe.Repository\\Product\\IProductRepository.cs",
+              "ToolTip": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Repository\\Product\\IProductRepository.cs",
+              "RelativeToolTip": "..\\KisaanCafe.Repository\\Product\\IProductRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:02:41.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Repository\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\KisaanCafe.Repository\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Repository\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\KisaanCafe.Repository\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAhwBQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:52:00.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDetails.cs",
+              "DocumentMoniker": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Models\\ProductDetails.cs",
+              "RelativeDocumentMoniker": "..\\KisaanCafe.Models\\ProductDetails.cs",
+              "ToolTip": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Models\\ProductDetails.cs",
+              "RelativeToolTip": "..\\KisaanCafe.Models\\ProductDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T20:15:22.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCommand.cs",
+              "DocumentMoniker": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Models\\ProductCommand.cs",
+              "RelativeDocumentMoniker": "..\\KisaanCafe.Models\\ProductCommand.cs",
+              "ToolTip": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Models\\ProductCommand.cs",
+              "RelativeToolTip": "..\\KisaanCafe.Models\\ProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:16:56.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceDetails.cs",
+              "DocumentMoniker": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Models\\InvoiceDetails.cs",
+              "RelativeDocumentMoniker": "..\\KisaanCafe.Models\\InvoiceDetails.cs",
+              "ToolTip": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Models\\InvoiceDetails.cs",
+              "RelativeToolTip": "..\\KisaanCafe.Models\\InvoiceDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:52:22.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InvoiceProductDetails.cs",
+              "DocumentMoniker": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Models\\InvoiceProductDetails.cs",
+              "RelativeDocumentMoniker": "..\\KisaanCafe.Models\\InvoiceProductDetails.cs",
+              "ToolTip": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Models\\InvoiceProductDetails.cs",
+              "RelativeToolTip": "..\\KisaanCafe.Models\\InvoiceProductDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:55:06.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostUserAction.cs",
+              "DocumentMoniker": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Models\\PostUserAction.cs",
+              "RelativeDocumentMoniker": "..\\KisaanCafe.Models\\PostUserAction.cs",
+              "ToolTip": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Models\\PostUserAction.cs",
+              "RelativeToolTip": "..\\KisaanCafe.Models\\PostUserAction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:25:00.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserCommand.cs",
+              "DocumentMoniker": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Models\\UserCommand.cs",
+              "RelativeDocumentMoniker": "..\\KisaanCafe.Models\\UserCommand.cs",
+              "ToolTip": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Models\\UserCommand.cs",
+              "RelativeToolTip": "..\\KisaanCafe.Models\\UserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:13:07.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\shoping\\KisaanCafeApi\\KisaanCafeWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\shoping\\KisaanCafeApi\\KisaanCafeWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T20:39:32.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\shoping\\KisaanCafeApi\\KisaanCafeWebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\shoping\\KisaanCafeApi\\KisaanCafeWebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-14T19:53:54.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDbInitializer.cs",
+              "DocumentMoniker": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Repository\\IDbInitializer.cs",
+              "RelativeDocumentMoniker": "..\\KisaanCafe.Repository\\IDbInitializer.cs",
+              "ToolTip": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Repository\\IDbInitializer.cs",
+              "RelativeToolTip": "..\\KisaanCafe.Repository\\IDbInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:52:34.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Repository\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "..\\KisaanCafe.Repository\\DbInitializer.cs",
+              "ToolTip": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Repository\\DbInitializer.cs",
+              "RelativeToolTip": "..\\KisaanCafe.Repository\\DbInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:51:02.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PostActionModel.cs",
+              "DocumentMoniker": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Models\\PostActionModel.cs",
+              "RelativeDocumentMoniker": "..\\KisaanCafe.Models\\PostActionModel.cs",
+              "ToolTip": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Models\\PostActionModel.cs",
+              "RelativeToolTip": "..\\KisaanCafe.Models\\PostActionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:21:19.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PostInvoiceDetails.cs",
+              "DocumentMoniker": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Models\\PostInvoiceDetails.cs",
+              "RelativeDocumentMoniker": "..\\KisaanCafe.Models\\PostInvoiceDetails.cs",
+              "ToolTip": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Models\\PostInvoiceDetails.cs",
+              "RelativeToolTip": "..\\KisaanCafe.Models\\PostInvoiceDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:55:20.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Repository\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Repository\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Repository\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Repository\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T19:30:38.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InvoiceDetails.cs",
+              "DocumentMoniker": "D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\InvoiceDetails.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\InvoiceDetails.cs",
+              "ToolTip": "D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\InvoiceDetails.cs",
+              "RelativeToolTip": "..\\..\\..\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\InvoiceDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T20:51:23.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Services\\Product\\ProductServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Services\\Product\\ProductServices.cs",
+              "ToolTip": "D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Services\\Product\\ProductServices.cs",
+              "RelativeToolTip": "..\\..\\..\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Services\\Product\\ProductServices.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T19:30:38.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InvoiceProductDetails.cs",
+              "DocumentMoniker": "D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\InvoiceProductDetails.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\InvoiceProductDetails.cs",
+              "ToolTip": "D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\InvoiceProductDetails.cs",
+              "RelativeToolTip": "..\\..\\..\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\InvoiceProductDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T20:20:01.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\shoping\\KisaanCafeApi\\KisaanCafeWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\shoping\\KisaanCafeApi\\KisaanCafeWebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-24T20:44:16.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PutActionResult.cs",
+              "DocumentMoniker": "D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\PutActionResult.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\PutActionResult.cs",
+              "ToolTip": "D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\PutActionResult.cs",
+              "RelativeToolTip": "..\\..\\..\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\PutActionResult.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAvwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T19:30:38.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PutActionResultCode.cs",
+              "DocumentMoniker": "D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\PutActionResultCode.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\PutActionResultCode.cs",
+              "ToolTip": "D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\PutActionResultCode.cs",
+              "RelativeToolTip": "..\\..\\..\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\PutActionResultCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T19:30:38.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Repository\\Product\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Repository\\Product\\ProductRepository.cs",
+              "ToolTip": "D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Repository\\Product\\ProductRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Repository\\Product\\ProductRepository.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAA7wI0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T19:30:38.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Repository\\Product\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Repository\\Product\\IProductRepository.cs",
+              "ToolTip": "D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Repository\\Product\\IProductRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Repository\\Product\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T19:30:38.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IProductServices.cs",
+              "DocumentMoniker": "D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Services\\Product\\IProductServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Services\\Product\\IProductServices.cs",
+              "ToolTip": "D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Services\\Product\\IProductServices.cs",
+              "RelativeToolTip": "..\\..\\..\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Services\\Product\\IProductServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T19:30:38.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FileConfigurationProvider.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\AppData\\Local\\Temp\\.vsdbgsrc\\c2199e9609606abea6df38a652924a54212d3c9140dc508ae8fa2ee46455ac87\\FileConfigurationProvider.cs",
+              "ToolTip": "C:\\Users\\HP\\AppData\\Local\\Temp\\.vsdbgsrc\\c2199e9609606abea6df38a652924a54212d3c9140dc508ae8fa2ee46455ac87\\FileConfigurationProvider.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAiwGcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T18:32:52.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "KisaanCafeWebAPI.csproj",
+              "DocumentMoniker": "D:\\shoping\\KisaanCafeApi\\KisaanCafeWebAPI\\KisaanCafeWebAPI.csproj",
+              "RelativeDocumentMoniker": "KisaanCafeWebAPI.csproj",
+              "ToolTip": "D:\\shoping\\KisaanCafeApi\\KisaanCafeWebAPI\\KisaanCafeWebAPI.csproj",
+              "RelativeToolTip": "KisaanCafeWebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-29T19:33:45.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DeleteActionCode.cs",
+              "DocumentMoniker": "D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\DeleteActionCode.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\DeleteActionCode.cs",
+              "ToolTip": "D:\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\DeleteActionCode.cs",
+              "RelativeToolTip": "..\\..\\..\\KisaanCafeProject\\KisaanCafeApi\\KisaanCafe.Models\\DeleteActionCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T19:30:38.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

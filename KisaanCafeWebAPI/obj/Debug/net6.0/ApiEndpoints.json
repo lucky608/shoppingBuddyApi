@@ -1,0 +1,91 @@
+[
+  {
+    "ContainingType": "KisaanCafeWebAPI.Controllers.ProductController",
+    "Method": "UpdateProductAsync",
+    "RelativePath": "Product/{productId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "product",
+        "Type": "KisaanCafe.Models.ProductCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "KisaanCafe.Models.PutActionResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "KisaanCafeWebAPI.Controllers.ProductController",
+    "Method": "DeleteProductAsync",
+    "RelativePath": "Product/{productId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KisaanCafeWebAPI.Controllers.ProductController",
+    "Method": "AddCustomerDetailsAsync",
+    "RelativePath": "Product/AddInvoice",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "invoiceDetails",
+        "Type": "KisaanCafe.Models.InvoiceDetails",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KisaanCafeWebAPI.Controllers.ProductController",
+    "Method": "AddProductAsync",
+    "RelativePath": "Product/AddProduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "KisaanCafe.Models.ProductCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KisaanCafeWebAPI.Controllers.ProductController",
+    "Method": "GetAllProductAsync",
+    "RelativePath": "Product/GetAllProducts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

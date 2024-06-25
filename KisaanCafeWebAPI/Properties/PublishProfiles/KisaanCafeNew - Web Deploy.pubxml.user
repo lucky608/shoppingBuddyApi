@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAN3HVgJCNT0eWGq76l0VZ/gAAAAACAAAAAAAQZgAAAAEAACAAAACRfB1kxizWSl2iLzcdZN96tjTJwtbbnZf93agSc7XOoQAAAAAOgAAAAAIAACAAAADULIt5PzWto5k//MDubHOYvJl0ZWT3oLniMRjxPXM6M6AAAABRIzhJIeEAaGtt4SeBcdcnrE47SuM14S/RPBD/AWTPzibJXy6uMLMT/fPZ21pBfxvJi/SWQ9842uc+tApl5KZQwM1rFSEN+n5xzoLJAZ0aFBiNif677VQth/X21H85BEsHnqcJigin/4UEg5m2hQZzuxd8svhL51UX/3Dm+Vtj3pc0jrIUtqyqJi7yGGozS8TBJDy+88XMYmSNC7DHN4m7QAAAADjHfushduGGz1L7jhMfmVnd/w4Ix1SB6/k/FBFETxhVe1RiHb2WIlAlkiipLKFywUMK2YC9gl8RDETiBtWeRWI=</EncryptedPassword>
+    <History>True|2024-03-01T07:01:17.0392144Z;True|2024-03-01T01:16:48.5519789+05:30;True|2024-03-01T00:55:46.4861963+05:30;True|2024-02-26T01:51:54.8749950+05:30;False|2024-02-26T01:46:12.6603695+05:30;False|2024-02-26T01:04:47.8820798+05:30;False|2024-02-26T00:55:26.0089185+05:30;True|2024-02-25T23:09:38.9894609+05:30;False|2024-02-25T17:47:53.6422763+05:30;False|2024-02-25T17:42:07.8894612+05:30;False|2024-02-25T17:00:12.4550231+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ApplicationDbContextConnection">
+      <Value>Data Source=kisaancafewebapidbserver.database.windows.net,1433%3bInitial Catalog=KisaanCafe_DB%3bUser ID=lokendrapatidar%3bPassword=Lo!stuti%40123</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="KisaanCafe.Repository.ApplicationDbContext">
+      <Value>Data Source=kisaancafewebapidbserver.database.windows.net,1433%3bInitial Catalog=KisaanCafe_DB%3bUser ID=lokendrapatidar%3bPassword=Lo!stuti%40123</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
