@@ -29,7 +29,7 @@ namespace KisaanCafe.Repository.Product
                         Description = x.Description,
                         Prize = x.Prize,
                         size=x.size,
-                        ImageData = x.ImageData,
+                        ImageData = x.ImageData
                         
                     })
                     .ToListAsync()
@@ -134,6 +134,7 @@ namespace KisaanCafe.Repository.Product
             try
             {
                 var listFromDb = await _context.InvoiceDetails
+                    .Where(x => x.phoneNumber == mobileNumber)
                     .Select(x => new InvoiceDetails
                     {
                         Id = x.Id,
@@ -278,22 +279,7 @@ namespace KisaanCafe.Repository.Product
            // foreach (var productDetailsDto in invoiceDetails.InvoiceProductDetails)
                 //for(int i=0;i< invoiceDetails.InvoiceProductDetails.size();i++)
            // {
-                var productDetails = new InvoiceProductDetails
-                {
-                    // Map properties from productDetailsDto to productDetails
-                    InvoiceDetailsId =1, // Set the foreign key
-                     Name = "yuria",
-                    Description = "fdfdg",
-                    Prize = 100,
-                    Weight = 10,
-                    totalWeight = 10,
-                    TotalPrize =100,
-                };
-
-                _context.InvoiceProductDetails.Add(productDetails);
-          //  }
-
-            await _context.SaveChangesAsync();
+               
            
         //return Ok("Invoice details added successfully");
             return invoiceDetails;

@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "D:\\shoping\\KisaanCafeApi\\KisaanCafeWebAPI\\KisaanCafeWebAPI.csproj": {}
+    "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafeWebAPI/KisaanCafeWebAPI.csproj": {}
   },
   "projects": {
-    "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Mapper\\KisaanCafe.Mapper.csproj": {
+    "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Mapper/KisaanCafe.Mapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Mapper\\KisaanCafe.Mapper.csproj",
+        "projectUniqueName": "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Mapper/KisaanCafe.Mapper.csproj",
         "projectName": "KisaanCafe.Mapper",
-        "projectPath": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Mapper\\KisaanCafe.Mapper.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Mapper\\obj\\",
+        "projectPath": "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Mapper/KisaanCafe.Mapper.csproj",
+        "packagesPath": "/Users/lokendrapatidar/.nuget/packages/",
+        "outputPath": "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Mapper/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/lokendrapatidar/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Models\\KisaanCafe.Models.csproj": {
-                "projectPath": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Models\\KisaanCafe.Models.csproj"
+              "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Models/KisaanCafe.Models.csproj": {
+                "projectPath": "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Models/KisaanCafe.Models.csproj"
               }
             }
           }
@@ -38,11 +36,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -69,47 +62,31 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Models\\KisaanCafe.Models.csproj": {
+    "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Models/KisaanCafe.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Models\\KisaanCafe.Models.csproj",
+        "projectUniqueName": "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Models/KisaanCafe.Models.csproj",
         "projectName": "KisaanCafe.Models",
-        "projectPath": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Models\\KisaanCafe.Models.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Models\\obj\\",
+        "projectPath": "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Models/KisaanCafe.Models.csproj",
+        "packagesPath": "/Users/lokendrapatidar/.nuget/packages/",
+        "outputPath": "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Models/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/lokendrapatidar/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -122,11 +99,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -153,55 +125,39 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Repository\\KisaanCafe.Repository.csproj": {
+    "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Repository/KisaanCafe.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Repository\\KisaanCafe.Repository.csproj",
+        "projectUniqueName": "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Repository/KisaanCafe.Repository.csproj",
         "projectName": "KisaanCafe.Repository",
-        "projectPath": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Repository\\KisaanCafe.Repository.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Repository\\obj\\",
+        "projectPath": "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Repository/KisaanCafe.Repository.csproj",
+        "packagesPath": "/Users/lokendrapatidar/.nuget/packages/",
+        "outputPath": "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Repository/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/lokendrapatidar/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Models\\KisaanCafe.Models.csproj": {
-                "projectPath": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Models\\KisaanCafe.Models.csproj"
+              "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Models/KisaanCafe.Models.csproj": {
+                "projectPath": "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Models/KisaanCafe.Models.csproj"
               }
             }
           }
@@ -210,11 +166,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -251,58 +202,42 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Services\\KisaanCafe.Services.csproj": {
+    "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Services/KisaanCafe.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Services\\KisaanCafe.Services.csproj",
+        "projectUniqueName": "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Services/KisaanCafe.Services.csproj",
         "projectName": "KisaanCafe.Services",
-        "projectPath": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Services\\KisaanCafe.Services.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Services\\obj\\",
+        "projectPath": "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Services/KisaanCafe.Services.csproj",
+        "packagesPath": "/Users/lokendrapatidar/.nuget/packages/",
+        "outputPath": "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Services/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/lokendrapatidar/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Mapper\\KisaanCafe.Mapper.csproj": {
-                "projectPath": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Mapper\\KisaanCafe.Mapper.csproj"
+              "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Mapper/KisaanCafe.Mapper.csproj": {
+                "projectPath": "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Mapper/KisaanCafe.Mapper.csproj"
               },
-              "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Repository\\KisaanCafe.Repository.csproj": {
-                "projectPath": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Repository\\KisaanCafe.Repository.csproj"
+              "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Repository/KisaanCafe.Repository.csproj": {
+                "projectPath": "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Repository/KisaanCafe.Repository.csproj"
               }
             }
           }
@@ -311,11 +246,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -342,58 +272,43 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\shoping\\KisaanCafeApi\\KisaanCafeWebAPI\\KisaanCafeWebAPI.csproj": {
+    "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafeWebAPI/KisaanCafeWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\shoping\\KisaanCafeApi\\KisaanCafeWebAPI\\KisaanCafeWebAPI.csproj",
+        "projectUniqueName": "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafeWebAPI/KisaanCafeWebAPI.csproj",
         "projectName": "KisaanCafeWebAPI",
-        "projectPath": "D:\\shoping\\KisaanCafeApi\\KisaanCafeWebAPI\\KisaanCafeWebAPI.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\shoping\\KisaanCafeApi\\KisaanCafeWebAPI\\obj\\",
+        "projectPath": "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafeWebAPI/KisaanCafeWebAPI.csproj",
+        "packagesPath": "/Users/lokendrapatidar/.nuget/packages/",
+        "outputPath": "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafeWebAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/lokendrapatidar/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/sdk/7.0.316/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Repository\\KisaanCafe.Repository.csproj": {
-                "projectPath": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Repository\\KisaanCafe.Repository.csproj"
+              "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Repository/KisaanCafe.Repository.csproj": {
+                "projectPath": "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Repository/KisaanCafe.Repository.csproj"
               },
-              "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Services\\KisaanCafe.Services.csproj": {
-                "projectPath": "D:\\shoping\\KisaanCafeApi\\KisaanCafe.Services\\KisaanCafe.Services.csproj"
+              "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Services/KisaanCafe.Services.csproj": {
+                "projectPath": "/Users/lokendrapatidar/AllProjects/shoppingBuddyApi/KisaanCafe.Services/KisaanCafe.Services.csproj"
               }
             }
           }
@@ -402,11 +317,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -453,24 +363,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.27, 6.0.27]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -479,7 +371,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
         }
       }
     }

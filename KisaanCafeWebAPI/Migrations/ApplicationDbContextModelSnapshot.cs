@@ -117,8 +117,9 @@ namespace KisaanCafeWebAPI.Migrations
                     b.Property<decimal>("Prize")
                         .HasColumnType("decimal(18,2)");
 
-                    b.Property<decimal>("Weight")
-                        .HasColumnType("decimal(18,2)");
+                    b.Property<byte[]>("VideoData")
+                        .IsRequired()
+                        .HasColumnType("varbinary(max)");
 
                     b.Property<string>("size")
                         .IsRequired()

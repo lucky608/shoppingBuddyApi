@@ -114,8 +114,10 @@ namespace KisaanCafeWebAPI.Controllers
             {
                 if (role == "adminJitu")
                 {
-                    var addedProducts = await _services.AddProductAsync(product).ConfigureAwait(false);
-                    return Ok(addedProducts);
+
+                    var addedProduct = await _services.AddProductAsync(product);
+
+                    return Ok(addedProduct);
                 }
                 else
                 {
